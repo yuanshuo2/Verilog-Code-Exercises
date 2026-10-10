@@ -1,6 +1,7 @@
 # Verilog-Code-Exercises
 基于Verilog，在牛客网等网站进行编程的实操练习
 
+```text
 Verilog-Code-Exercises
 ├── README.md
 └── test_stage01        //简单题目的练习
